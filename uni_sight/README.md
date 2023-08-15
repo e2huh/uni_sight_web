@@ -2,7 +2,7 @@
 
 1. 로컬 실행 방법
 ```
-git clone (https://github.com/e2huh/uni_sight.git)
+git clone https://github.com/e2huh/uni_sight.git
 
 npm install
 
