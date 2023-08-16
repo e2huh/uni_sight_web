@@ -11,11 +11,13 @@ function App() {
       <hr></hr>
       <div className="text1">질문 입력하기</div>
       <div className="text2">
-          '분석하기' 버튼을 누르면 텍스트에 대한 결과가 출력됩니다.
+          질문을 입력하고 ChatGPT 버튼을 누르면 답변이 출력됩니다.
       </div>
       <div className = "inputbox">
-        <input className="inputbox" type="text" name="input" alt ="질문을 입력하세요."/>
+        <input className="inputbox" type="text" name="input"/>
         <input className="gptbtn" type ="button" />
+        <div className ="text1">ChatGPT :</div>
+        <div className = "text2">'분석하기' 버튼을 누르면 언어 감수성 분석 결과가 출력됩니다.</div>
         <input className="gptbox" type="text" name="input"/> 
         <button id ="btn" type="submit">분석하기</button>
       </div>
