@@ -7,119 +7,101 @@
 .text1{
   font-weight: bold;
   font-size : 25px;
-  margin : 10px;
+  margin : 15px;
 }
 .text2{
   margin : 15px;
 }
 .inputbox{
   margin : 10px;
+  width : 600px;
+  height : 150px;
+}
+#askin{
   border-color :#20B2AA;
   border-radius: 10px;
-  width : 700px;
-  height : 100px;
+  width : 340px;
+  height : 50px;
+  font-size : 15px;
+  margin : 10px;
 }
-.gptbtn{
-  background-color: white;
-  border-radius: 5px;
-  margin : 5px;
-  margin-left : 320px;
+#gptbtn{
+  border-radius: 10px;
   border-color: white;
-  height : 40px;
-  width : 40px;
+  height : 50px;
+  width : 50px;
+  padding : 15px;
   background : url(gpt.png);
-  background-repeat: no-repeat;
   background-size: contain;
 }
-#btn{
-  color :white;
-  background-color: #20B2AA;
-  border-radius: 5px;
+.outputbox{
   margin : 10px;
-  margin-left : 300px;
-  font-size: 15px;
-  font-weight: bold;
-  border-color: white;
-  height : 40px;
-  width : 100px;
+  width : 600px;
+  height : 320px;
 }
 .gptbox{
   margin : 10px;
   border-color :#20B2AA;
   border-radius: 10px;
-  width : 700px;
+  width : 450px;
   height :200px;
+  font-size : 15px;
+}
+#outbtn{
+  color :white;
+  background-color: #20B2AA;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: bold;
+  border-color: white;
+  height : 200px;
+  width : 100px;
 }
 .result{
-  position : absolute;
-  left : 750px;
-  top : 85px;
-  font-weight: bold;
-  font-size : 25px;
-  margin : 20px;
-}
-.resulttxt{
-  position : absolute;
-  left : 750px;
-  top : 150px;
-  margin-left : 20px;
-  margin-top : 5px;
-}
-.resultbox{
-  /* margin-top : 10px; */
+  margin : 10px;
   border-color :#20B2AA;
   border-radius: 10px;
   width : 700px;
-  height : 370px;
-  position : absolute;
-  left : 385px;
-  top : 100px;
+  height : 400px;
+}
+.resultbox{
+  margin : 10px;
+  border-color :#20B2AA;
+  border-radius: 10px;
+  width : 570px;
+  height : 150px;
 }
 .category{
   font-weight: bold;
-  position : absolute;
-  left : 920px;
-  top : 600px;
+  margin: 10px;
+  float: left;
 }
 .category1{
   color : red;
-  font-weight: bold;
-  position : absolute;
-  left : 920px;
-  top : 640px;
+  float : right;
+  margin-left: 10px;
 }
 .category2{
   color : orange;
-  font-weight: bold;
-  position : absolute;
-  left : 1020px;
-  top : 640px;
+  float : right;
+  margin-left: 10px;
 }
 .category3{
   color : rgb(12, 184, 126);
-  font-weight: bold;
-  position : absolute;
-  left : 1100px;
-  top : 640px;
+  float : right;
+  margin-left: 10px;
 }
 .category4{
   color : rgb(12, 124, 184);
-  font-weight: bold;
-  position : absolute;
-  left : 1200px;
-  top : 640px;
+  float : right;
+  margin-left: 10px;
 }
 .category5{
   color : rgb(154, 82, 232);
-  font-weight: bold;
-  position : absolute;
-  left : 1250px;
-  top : 640px;
+  float : right;
+  margin-left: 10px;
 }
 .category6{
   color : rgb(216, 21, 148);
-  font-weight: bold;
-  position : absolute;
-  left : 1300px;
-  top : 640px;
+  float : right;
 }
