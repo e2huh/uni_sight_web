@@ -35,7 +35,6 @@
 }
 .outputbox{
   margin : 10px;
-  /* width : 300px; */
 }
 .gptbox{
   margin-left : 10px;
@@ -52,9 +51,9 @@
   font-size: 15px;
   font-weight: bold;
   border-color: white;
-  height : 50px;
-  width : 305px;
-  margin-left : 10px;
+  height : 200px;
+  /* width : 100px; */
+  /* margin-left : 15px; */
 }
 .result{
   margin : 10px;
