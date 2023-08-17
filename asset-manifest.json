@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uni_sight/static/css/main.37fe4489.css",
+    "main.js": "/uni_sight/static/js/main.33bc925c.js",
+    "static/js/787.14434ac9.chunk.js": "/uni_sight/static/js/787.14434ac9.chunk.js",
+    "index.html": "/uni_sight/index.html",
+    "main.37fe4489.css.map": "/uni_sight/static/css/main.37fe4489.css.map",
+    "main.33bc925c.js.map": "/uni_sight/static/js/main.33bc925c.js.map",
+    "787.14434ac9.chunk.js.map": "/uni_sight/static/js/787.14434ac9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37fe4489.css",
+    "static/js/main.33bc925c.js"
+  ]
+}
