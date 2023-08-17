@@ -27,21 +27,19 @@ function App() {
       <div className = "result">
         <div className="text1">언어 감수성 분석 결과</div>
         <div className ="text2"> 유의하세요! 언어 감수성이 낮게 판단될 수 있는 단어입니다.</div>
-        <div className="category">- 카테고리 -
-          <div className="category1">장애 및 병력
-            <div className="category2">성과 가족
-              <div className="category3">사회적 신분
-                <div className="category4">출신
-                  <div className="category5">욕설
-                  </div>
+        <div className="category">- 카테고리 - </div>
+        <div className="category1">장애 및 병력
+          <div className="category2">성과 가족
+            <div className="category3">사회적 신분
+              <div className="category4">출신
+                <div className="category5">욕설
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <input className="resultbox" type="text" name="input"/>
-      </div>
-      
+        </div>
+        <input className="resultbox" type="text" name="input"/>      
     </>
   );
 }
