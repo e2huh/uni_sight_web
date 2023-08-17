@@ -35,12 +35,13 @@
 }
 .outputbox{
   margin : 10px;
+  /* width : 300px; */
 }
 .gptbox{
-  margin : 10px;
+  margin-left : 10px;
   border-color :#20B2AA;
-  border-radius: 10px;
-  width : 250px;
+  border-radius: 5px;
+  width : 300px;
   height :200px;
   font-size : 15px;
 }
@@ -51,8 +52,9 @@
   font-size: 15px;
   font-weight: bold;
   border-color: white;
-  height : 200px;
-  width : 50px;
+  height : 50px;
+  width : 300px;
+  margin-left : 10px;
 }
 .result{
   margin : 10px;

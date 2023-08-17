@@ -20,9 +20,9 @@ function App() {
       </div>
       <div  className = "outputbox">
         <div className ="text1">ChatGPT :</div>
-        <div className = "text2">'분석' 버튼을 누르면 언어 감수성 분석 결과가 출력됩니다.</div>
+        <div className = "text2">'분석하기' 버튼을 누르면 언어 감수성 분석 결과가 출력됩니다.</div>
         <input className="gptbox" type="text" name="input"/> 
-        <button id ="outbtn" type="submit">분석</button>
+        <button id ="outbtn" type="submit">분석하기</button>
       </div>
       <div className = "result">
         <div className="text1">언어 감수성 분석 결과</div>
