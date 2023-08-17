@@ -1,6 +1,6 @@
 .title {
-  color : #20B2AA;
-  font-size : 35px;
+  color : #58ba9e;
+  font-size : 50px;
   font-weight: bolder;
   margin : 10px;
 }
@@ -11,17 +11,19 @@
 }
 .text2{
   font-size : 15px;
+  margin : 10px;
 }
 .inputbox{
   margin : 10px;
 }
 #askin{
-  border-color :#20B2AA;
+  border-color :#58ba9e;
   border-radius: 10px;
-  width : 250px;
+  width : 500px;
   height : 50px;
   font-size : 15px;
-  margin : 10px;
+  margin : 10px 0px 10px 10px;
+  padding-left: 10px;
 }
 #gptbtn{
   border-radius: 10px;
@@ -36,32 +38,38 @@
   margin : 10px;
 }
 .gptbox{
-  border-color :#20B2AA;
-  border-radius: 5px;
-  width : 360px;
+  border-color :#58ba9e;
+  border-radius: 10px;
+  width : 500px;
   height :150px;
   font-size : 15px;
+  margin : 10px 0px 10px 10px;
+  padding-left: 10px;
 }
 #outbtn{
   color :white;
-  background-color: #20B2AA;
-  border-radius: 5px;
+  background-color: #58ba9e;
+  border-radius: 10px;
   font-size: 15px;
   font-weight: bold;
   border-color: white;
-  height : 50px;
-  width : 100px;
+  height : 150px;
+  width : 50px;
 }
 .result{
-  margin : 10px;
-  border-color :#20B2AA;
+  margin : 10px 0px 0px 20px;
+  padding: 10px;
+  background-color: #58ba9e;
   border-radius: 10px;
+  height : 150px;
+  float: left;
 }
 .resultbox{
-  margin : 10px;
-  border-color :#20B2AA;
+  margin : 10px 0px 0px 0px;
+  padding: 10px;
+  border-color: #58ba9e;
   border-radius: 10px;
-  width : 350px;
+  width : 500px;
   height : 150px;
   font-size : 15px;
 }
@@ -82,7 +90,7 @@
   margin-left: 10px;
 }
 .category3{
-  color : rgb(12, 184, 126);
+  color : green;
   float : right;
   margin-left: 10px;
 }
