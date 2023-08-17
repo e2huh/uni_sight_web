@@ -10,7 +10,6 @@
   margin : 15px;
 }
 .text2{
-  margin : 5px;
   font-size : 15px;
 }
 .inputbox{
@@ -29,7 +28,7 @@
   border-color: white;
   height : 50px;
   width : 50px;
-  padding : 15px;
+  padding : 17px;
   background : url(gpt.png);
   background-size: contain;
 }
@@ -37,11 +36,10 @@
   margin : 10px;
 }
 .gptbox{
-  margin-left : 10px;
   border-color :#20B2AA;
   border-radius: 5px;
-  width : 250px;
-  height :200px;
+  width : 360px;
+  height :150px;
   font-size : 15px;
 }
 #outbtn{
@@ -51,15 +49,13 @@
   font-size: 15px;
   font-weight: bold;
   border-color: white;
-  height : 200px;
-  width : 80px;
-  /* margin-left : 15px; */
+  height : 50px;
+  width : 100px;
 }
 .result{
   margin : 10px;
   border-color :#20B2AA;
   border-radius: 10px;
-  height : 125px;
 }
 .resultbox{
   margin : 10px;
