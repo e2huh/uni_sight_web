@@ -10,7 +10,7 @@
   margin : 15px;
 }
 .text2{
-  margin : 15px;
+  margin : 5px;
   font-size : 15px;
 }
 .inputbox{
@@ -21,7 +21,7 @@
 #askin{
   border-color :#20B2AA;
   border-radius: 10px;
-  width : 300px;
+  width : 250px;
   height : 50px;
   font-size : 15px;
   margin : 10px;
@@ -37,14 +37,14 @@
 }
 .outputbox{
   margin : 10px;
-  width : 600px;
+  width : 500px;
   height : 320px;
 }
 .gptbox{
   margin : 10px;
   border-color :#20B2AA;
   border-radius: 10px;
-  width : 300px;
+  width : 250px;
   height :200px;
   font-size : 15px;
 }
@@ -62,20 +62,21 @@
   margin : 10px;
   border-color :#20B2AA;
   border-radius: 10px;
-  width : 700px;
+  width : 500px;
   height : 400px;
 }
 .resultbox{
   margin : 10px;
   border-color :#20B2AA;
   border-radius: 10px;
-  width : 410px;
+  width : 350px;
   height : 150px;
 }
 .category{
   font-weight: bold;
   margin: 10px;
   float: left;
+  font-size: 15px;
 }
 .category1{
   color : red;
