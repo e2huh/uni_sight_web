@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/uni_sight/static/css/main.3dfa7cf1.css",
+    "main.css": "/uni_sight/static/css/main.1981c54a.css",
     "main.js": "/uni_sight/static/js/main.43778b7d.js",
     "static/js/787.14434ac9.chunk.js": "/uni_sight/static/js/787.14434ac9.chunk.js",
     "index.html": "/uni_sight/index.html",
-    "main.3dfa7cf1.css.map": "/uni_sight/static/css/main.3dfa7cf1.css.map",
+    "main.1981c54a.css.map": "/uni_sight/static/css/main.1981c54a.css.map",
     "main.43778b7d.js.map": "/uni_sight/static/js/main.43778b7d.js.map",
     "787.14434ac9.chunk.js.map": "/uni_sight/static/js/787.14434ac9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3dfa7cf1.css",
+    "static/css/main.1981c54a.css",
     "static/js/main.43778b7d.js"
   ]
 }
