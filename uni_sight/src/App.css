@@ -15,8 +15,6 @@
 }
 .inputbox{
   margin : 10px;
-  /* width : 500px; */
-  /* height : 150px; */
 }
 #askin{
   border-color :#20B2AA;
@@ -37,8 +35,6 @@
 }
 .outputbox{
   margin : 10px;
-  /* width : 500px; */
-  /* height : 320px; */
 }
 .gptbox{
   margin : 10px;
@@ -56,7 +52,7 @@
   font-weight: bold;
   border-color: white;
   height : 200px;
-  width : 100px;
+  width : 50px;
 }
 .result{
   margin : 10px;
